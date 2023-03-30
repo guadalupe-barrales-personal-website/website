@@ -1,2 +1,2 @@
-alert:{console.log(Hello);}
-alert:{Hello}
+const message = 'Hello'
+alert (message)
