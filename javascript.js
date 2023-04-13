@@ -1,2 +1,2 @@
 const message = 'Hello'
-alert (message)
+alert (message);
