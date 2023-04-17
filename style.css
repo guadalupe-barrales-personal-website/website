@@ -1,4 +1,47 @@
-h1 {text-align: center;}
-h2 {text-align: center;}
-body {background-color: rgba(181, 187, 240, 0.731);}
+h1 {
+    text-align: center;
+    color:  #0e3f5e;
+    font-size: 85px;
+}
+h2 {
+    text-align: center;
+    color:#114f39;
+    font-size: 60px;
+}
+body {
+    background-color: #a7bfde;
+    
+}
+.links {
+    display: flex;
+    justify-content:right;
+    gap: 3%;
+    font-size: 20px;
+}
+form{
+    color: #1A5173;
+    
+}
+a{
+    color:#0d4652;
+    text-decoration: none;
 
+}
+header {
+    background-color: #79a395;
+    border: #073226;
+    border: solid;
+    font-size: 35px;
+}
+p {
+    font-size:30px;
+    color: #225371;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+img {
+    width: 50%;
+    height: auto;
+    float: right;
+}
